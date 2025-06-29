@@ -30,7 +30,7 @@ This analysis aims to clean and explore the U.S. General Services Administration
 
 o Technologies Used: Python
 
-o Project Link: FINAL_TIME_TO_HIRE_P1.ipynb 
+o Project Link: [FINAL_TIME_TO_HIRE_P1.ipynb](https://github.com/TechFlowIntel/Hezron-Data-Science-Portfolio/blob/main/FINAL_TIME_TO_HIRE_P1.ipynb) 
 
 ##### Education 🎓
 ********************************************************************************************************
