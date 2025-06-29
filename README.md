@@ -9,7 +9,7 @@ I am a consultant with a deep passion for data-driven decision-making and busine
 
 I thrive on tackling challenging projects that push me to think critically and creatively while continuously refining my skills. Currently, I am expanding my expertise in machine learning and artificial intelligence, equipping myself with advanced analytical capabilities to solve complex business problems and drive impactful insights.
 
-### Skills 🛠️
+## Skills 🛠️
 ********************************************************************************************************
 | **Category**         | **Tools/Technologies**                                                                          | 
 |----------------------|-------------------------------------------------------------------------------------------------|
@@ -21,9 +21,10 @@ I thrive on tackling challenging projects that push me to think critically and c
 | Finance              | Profit & Loss (P&L) Reporting, Budget Planning, Ad-Hoc Financial Reporting, Financial Modeling  |
 
 
-#### Projects ⚡
+### Projects ⚡
 ********************************************************************************************************
 Key Trends in hiring duration
+
 o Problem Statement:
 
 This analysis aims to clean and explore the U.S. General Services Administration's (GSA) "Time to Hire" dataset to identify key trends in hiring duration. Specifically, it will compute measures of central tendency, dispersion, and percentiles, and visualize hiring patterns through boxplots for the three states with the highest hires to assess variability and potential outliers.
@@ -32,7 +33,7 @@ o Technologies Used: Python
 
 o Project Link: [FINAL_TIME_TO_HIRE_P1.ipynb](https://github.com/TechFlowIntel/Hezron-Data-Science-Portfolio/blob/main/FINAL_TIME_TO_HIRE_P1.ipynb) 
 
-##### Education 🎓
+## Education 🎓
 ********************************************************************************************************
 • SOUTHERN NEW HAMPSHIRE UNIVERSITY: STEM MBA
 
