@@ -35,7 +35,7 @@ o Project Link: [FINAL_TIME_TO_HIRE_P1.ipynb](https://github.com/TechFlowIntel/H
 
 ## Education 🎓
 ********************************************************************************************************
-• SOUTHERN NEW HAMPSHIRE UNIVERSITY: STEM MBA
+## • SOUTHERN NEW HAMPSHIRE UNIVERSITY: STEM MBA (Data Analytics and Finance) 
 
 o Granduation: Aug 2025
 
