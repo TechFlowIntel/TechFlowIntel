@@ -12,7 +12,7 @@ I thrive on tackling challenging projects that push me to think critically and c
 ## Projects ⚡
 ********************************************************************************************************
 ### 1. Key Trends in hiring duration
-![image](https://github.com/user-attachments/assets/cec5644f-69aa-4aa2-849e-1d32fc6403de)
+![image](https://github.com/user-attachments/assets/ef5e01b7-2b33-44e5-bd5d-b7fddb8aa313)
 #### Problem Statement:
 
 This analysis aims to clean and explore the U.S. General Services Administration's (GSA) "Time to Hire" dataset to identify key trends in hiring duration. Specifically, it will compute measures of central tendency, dispersion, and percentiles, and visualize hiring patterns through boxplots for the three states with the highest hires to assess variability and potential outliers.
