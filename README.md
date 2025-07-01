@@ -42,5 +42,3 @@ o Granduation: Aug 2025
 ## Contact Me ☎
 ********************************************************************************************************
 • Email: eshezron@gmail.com
-
-• LinkedIn: https://www.linkedin.com/in/hezronrugalema/
