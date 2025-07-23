@@ -39,6 +39,16 @@ o Project Link: [FINAL_TIME_TO_HIRE_P1.ipynb](https://github.com/TechFlowIntel/H
 
 o Granduation: Aug 2025
 
+## DataCamp Certifications and Statements of Accomplishment 
+*******************************************************************************************************
+
+<img width="1243" height="716" alt="image" src="https://github.com/user-attachments/assets/b3f9af5f-3105-4648-98b3-5dae5bb302ed" />
+
+<img width="1485" height="857" alt="image" src="https://github.com/user-attachments/assets/8baeb44e-12b8-4068-854d-cc2dd713bd6d" />
+
+<img width="1487" height="860" alt="image" src="https://github.com/user-attachments/assets/49bdb0ca-f020-483d-b2e9-45696d656187" />
+
+
 ## Contact Me ☎
 ********************************************************************************************************
 • Email: eshezron@gmail.com
