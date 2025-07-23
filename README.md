@@ -42,8 +42,9 @@ o Granduation: Aug 2025
 ## DataCamp Certifications and Statements of Accomplishment 
 *******************************************************************************************************
 
-[DATA CAMP SQL certificate.pdf](https://github.com/user-attachments/files/21377094/DATA.CAMP.SQL.certificate.pdf)
-
+ Intermediate SQL: [DATA CAMP SQL certificate.pdf](https://github.com/user-attachments/files/21377094/DATA.CAMP.SQL.certificate.pdf)
+ Intermediate Python: [Intermediate Python Data Camp.pdf](https://github.com/user-attachments/files/21377111/Intermediate.Python.Data.Camp.pdf)
+  Introduction to Tableau: [Data Camp Introduction to Tableau.pdf](https://github.com/user-attachments/files/21377112/Data.Camp.Introduction.to.Tableau.pdf)
 
 ## Contact Me ☎
 ********************************************************************************************************
